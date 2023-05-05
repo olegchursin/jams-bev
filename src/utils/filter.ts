@@ -1,6 +1,6 @@
 import cocktails from '../content/cocktails.json';
 
-interface Filter {
+export interface Filter {
   readonly id: string;
   readonly key: string;
   readonly label: string;
@@ -10,13 +10,13 @@ const baseSpirits = new Set(
   cocktails.map(cocktail => cocktail.baseSpirit).flat()
 );
 
-const baseFilter = {
+const baseFilter: Filter = {
   id: '',
   key: '',
   label: 'All'
 };
 
-export const filters = [
+export const filters: Filter[] = [
   baseFilter,
   ...Array.from(baseSpirits).map(spirit => {
     const spiritName = spirit.toLowerCase();
