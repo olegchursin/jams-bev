@@ -1,0 +1,44 @@
+{
+  "name": "tct-cocktails",
+  "version": "0.0.1",
+  "homepage": "https://jams-bev.olegchursin.com",
+  "license": "MIT",
+  "author": "Oleg Chursin <olegchursin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tulupinc/flowbite-next-starter.git"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "format": "prettier --check --ignore-path .gitignore --write .",
+    "lint": "next lint",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.0.1",
+    "flowbite": "^1.6.5",
+    "flowbite-react": "^0.4.4",
+    "next": "^13.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-grid-gallery": "^1.0.0",
+    "react-icons": "^4.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "@types/react": "18.2.5",
+    "autoprefixer": "10.4.14",
+    "postcss": "^8.4.23",
+    "prettier": "^2.8.8",
+    "prettier-plugin-organize-imports": "^3.2.2",
+    "prettier-plugin-tailwindcss": "^0.2.8",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.0.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}

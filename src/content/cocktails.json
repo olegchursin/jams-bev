@@ -1,0 +1,355 @@
+[
+  {
+    "id": "greenhouse",
+    "name": "Greenhouse",
+    "baseSpirit": ["gin"],
+    "glass": "Rocks",
+    "garnish": "3 leaf mint sprig",
+    "ingredients": [
+      {
+        "name": "Hendricks Gin",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Green Juice",
+        "amount": "1oz"
+      }
+    ],
+    "batch": null,
+    "build": "Put all ingredients in a tin with ice, shake, and pour into a rocks glass with rocks.",
+    "radioByte": "The Greenhouse cocktail is a refreshing and healthy blend of Botanist Gin, lime, cucumber, kale, celery, and citrus. Made with Hendricks Gin and a combination of fresh ingredients, this drink is perfect for those looking for a revitalizing and invigorating cocktail."
+  },
+  {
+    "id": "oaxacan_paloma",
+    "name": "Oaxacan Paloma",
+    "baseSpirit": ["mezcal"],
+    "glass": "Highball",
+    "garnish": "Dehydrated lime",
+    "ingredients": [
+      {
+        "name": "Vida Mezcal",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Pamplemousse Liqueur",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lime",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Grapefruit Juice",
+        "amount": "1oz"
+      },
+      {
+        "name": "Pink Grapefruit Soda",
+        "amount": "Top"
+      }
+    ],
+    "batch": null,
+    "build": "Add the top 4 ingredients in a tin with ice, shake and pour into a Tajin rimmed highball with rocks. Top with Pink Grapefruit Soda.",
+    "radioByte": "Indulge in this lively cocktail that offers a perfect harmony of smoky depth, sweet fruitiness, tart citrus, and effervescent fizziness, making it an ideal choice for warm summer evenings or whenever you desire a refreshing, zesty treat."
+  },
+  {
+    "id": "uno_mas",
+    "name": "Uno Mas",
+    "baseSpirit": ["tequila"],
+    "glass": "Rocks",
+    "garnish": "Dehydrated lime",
+    "ingredients": [
+      {
+        "name": "Cincoro Blanco Tequila",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Ramazzotti Rosato Liqueur",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lime",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Simple",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Mango puree",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Hellfire bitters",
+        "amount": "4 dashes"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients in a tin with ice, shake, and pour into a black salt-rimmed rocks glass with ice.",
+    "radioByte": "Savor the exquisite interplay of flavors in this enticing cocktail, where the smooth Cincoro Blanco Tequila meets the fruity Ramazzotti Rosato Liqueur, combined with tart lime, a touch of sweetness from the simple syrup, the tropical richness of mango puree, and a bold, spicy kick from Hellfire bitters, creating an alluring and well-balanced taste sensation."
+  },
+  {
+    "id": "manhattan",
+    "name": "Manhattan",
+    "baseSpirit": ["whiskey"],
+    "glass": "Coupe",
+    "garnish": "Lemon twist or cherry",
+    "ingredients": [
+      {
+        "name": "High West Double Rye",
+        "amount": "2oz"
+      },
+      {
+        "name": "Antica Formula",
+        "amount": "1oz"
+      },
+      {
+        "name": "Licor 43",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Chocolate bitters",
+        "amount": "3 dashes"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients in a mixing glass, stir, and pour into a coupe.",
+    "radioByte": "Delight in this captivating cocktail that masterfully blends the bold, spicy High West Double Rye with the rich, velvety notes of Antica Formula, the subtle sweetness and complexity of Licor 43, and a hint of indulgent chocolate from the bitters, creating a luxurious and well-rounded flavor experience perfect for sipping and savoring."
+  },
+  {
+    "id": "lulasheart",
+    "name": "Lula's Heart",
+    "baseSpirit": ["rum"],
+    "glass": "Nick & Nora",
+    "garnish": "Lemon twist",
+    "ingredients": [
+      {
+        "name": "Mount Gay Black Barrel",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Lillet Blanc",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Passionfruit Falernum",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Angostura bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "Salt",
+        "amount": "Pinch"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients in a mixing glass, stir, and strain into a Nick & Nora glass.",
+    "radioByte": "Indulge in this enchanting cocktail that harmoniously melds the robust, full-bodied flavors of Mount Gay Black Barrel Rum with the delicate, floral notes of Lillet Blanc, the exotic sweetness of Passionfruit Falernum, a refreshing burst of lemon juice, the classic spice of Angostura bitters, and a pinch of salt to perfectly balance the taste, creating an unforgettable tropical escape in every sip."
+  },
+  {
+    "id": "frozenwatermelonmarg",
+    "name": "Frozen Watermelon Marg",
+    "baseSpirit": ["tequila"],
+    "glass": "Mason Jar",
+    "garnish": "Tajin rim w/ cucumber",
+    "ingredients": [
+      {
+        "name": "Frozen Marg",
+        "amount": "Full jar"
+      }
+    ],
+    "batch": [
+      {
+        "name": "Pueblo Viejo Blanco Tequila",
+        "amount": "3L"
+      },
+      {
+        "name": "Triple Sec",
+        "amount": "1L"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "2.5L"
+      },
+      {
+        "name": "Fresh Watermelon Juice",
+        "amount": "7L"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "2L"
+      },
+      {
+        "name": "Water",
+        "amount": "1.5L"
+      }
+    ],
+    "build": "Batch 2 per day and leave in walk-in.",
+    "radioByte": "Experience a delightful, large-scale concoction that artfully combines the bold, spirited flavors of Pueblo Viejo Blanco Tequila, Triple Sec for a citrusy touch, the refreshing tang of lime juice, the juicy, natural sweetness of fresh watermelon juice, simple syrup for a hint of sweetness, and water to balance the mixture, resulting in a vibrant and invigorating beverage perfect for sharing at parties and gatherings."
+  },
+  {
+    "id": "tokyo75",
+    "name": "Tokyo 75",
+    "baseSpirit": ["gin"],
+    "glass": "Flute",
+    "garnish": "Lemon twist",
+    "ingredients": [
+      {
+        "name": "Roku Gin",
+        "amount": "1oz"
+      },
+      {
+        "name": "Yuzu Juice",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Prosecco",
+        "amount": "2oz"
+      }
+    ],
+    "batch": null,
+    "build": "Add first 3 ingredients in a flute, top with Prosecco.",
+    "radioByte": "Indulge in this exquisite cocktail that offers a harmonious blend of floral and botanical nuances, exotic citrus brightness, a hint of sweetness, and a crisp, effervescent finish, making it a delightful and invigorating choice for any occasion or celebration."
+  },
+  {
+    "id": "sunburntOnSB",
+    "name": "Sunburnt on S.B.",
+    "baseSpirit": ["vodka"],
+    "glass": "Highball",
+    "garnish": "Mint sprig & dehydrated lime",
+    "ingredients": [
+      {
+        "name": "Titos Vodka",
+        "amount": "1.5oez"
+      },
+      {
+        "name": "Mango",
+        "amount": "1oz"
+      },
+      {
+        "name": "Lime juice",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Coconut water",
+        "amount": "2oz"
+      },
+      {
+        "name": "Peychaud's bitters",
+        "amount": "3 dashes"
+      },
+      {
+        "name": "Ginger beer",
+        "amount": "Top"
+      }
+    ],
+    "batch": null,
+    "build": "Add the first 4 ingredients in a tin shaker with ice. Shake vigorously, strain into a highball glass with ice. Top with ginger beer and bitters.",
+    "radioByte": "Immerse yourself in the tantalizing taste of this tropical cocktail, featuring smooth vodka, luscious mango sweetness, zesty citrus tang, refreshing coconut water, subtle aromatic spice, and a zingy, effervescent ginger beer finish, making it a vibrant and invigorating delight perfect for any summer day or beachside escape."
+  },
+  {
+    "id": "penicillin",
+    "name": "Penicillin",
+    "baseSpirit": ["whiskey"],
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      {
+        "name": "Bruichladdich Scotch",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Port Charlotte Peated Scotch",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Honey Syrup",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Acid Adjusted OJ",
+        "amount": "0.75oz"
+      }
+    ],
+    "batch": null,
+    "build": "Pour the ingredients into a mixing cocktail glass, stir for 15 seconds. Pour into a rocks glass with 1 big cube.",
+    "radioByte": "Savor the allure of this elegant and sophisticated cocktail that boasts a harmonious blend of smooth, rich scotch, bold smoky undertones, natural honeyed sweetness, and a bright, tangy citrus twist, creating a captivating and enchanting flavor experience perfect for sipping and savoring."
+  },
+  {
+    "id": "sapphire_tides",
+    "name": "Sapphire Tides",
+    "baseSpirit": ["gin"],
+    "glass": "Nick and Nora",
+    "garnish": "Edible wafer",
+    "ingredients": [
+      {
+        "name": "Bombay Sapphire Gin",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Pineapple Juice",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Italicus Bergamot",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Green Chartreuse",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Aquafaba",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Yuzu Juice",
+        "amount": "0.25oz"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients into a tin and dry shake, then wet shake and pour into a Nick and Nora glass.",
+    "radioByte": null
+  },
+  {
+    "id": "jams_fashioned",
+    "name": "Jams Fashioned",
+    "baseSpirit": ["whiskey"],
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      {
+        "name": "Wild Turkey Whiskey",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Honey Syrup",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Angostura Bitters",
+        "amount": "2 dashes"
+      }
+    ],
+    "batch": null,
+    "build": "Pour all ingredients into a mixing cocktail glass, stir for 15 seconds, then pour into a rocks glass with a large cube.",
+    "radioByte": null
+  }
+]
