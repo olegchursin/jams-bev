@@ -4,7 +4,7 @@ import FooterSection from '../components/footer';
 import Header from '../components/header';
 
 const siteName = 'JAMS Cocktails';
-const pageTitle = 'JAMS specialty cocktails';
+const pageTitle = 'JAMS Specialty Cocktails';
 const currentURL = 'https://jamsbev.olegchursin.com';
 const twitterHandle = '@chursin';
 const previewImage =
@@ -40,16 +40,24 @@ export default function Index(): JSX.Element {
         <meta name="msapplication-TileColor" content="#da532c" />
         <meta name="theme-color" content="#ffffff" />
 
-        {/* Twitter */}
-        <meta name="twitter:card" content="summary" key="twcard" />
-        <meta name="twitter:creator" content={twitterHandle} key="twhandle" />
-
-        {/* Open Graph */}
-        <meta property="og:url" content={currentURL} key="ogurl" />
-        <meta property="og:image" content={previewImage} key="ogimage" />
+        <meta
+          property="og:url"
+          content="https://jamsbev.olegchursin.com/"
+          key="ogurl"
+        />
+        <meta property="og:type" content="website" />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
-        <meta property="og:description" content={description} key="ogdesc" />
+        <meta property="og:description" content={description} key="ogdescr" />
+        <meta property="og:image" content={previewImage} key="ogimage" />
+
+        <meta name="twitter:card" content="summary_large_image" key="twcard" />
+        <meta property="twitter:domain" content="jamsbev.olegchursin.com" />
+        <meta property="twitter:url" content={currentURL} key="twurl" />
+        <meta name="twitter:creator" content={twitterHandle} key="twhandle" />
+        <meta name="twitter:title" content={pageTitle} key="twtitle" />
+        <meta name="twitter:description" content={description} key="twdescr" />
+        <meta name="twitter:image" content={previewImage} key="twimg" />
       </Head>
       <Header />
       <div className="dark:bg-gray-900">
