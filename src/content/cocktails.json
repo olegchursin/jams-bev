@@ -1,37 +1,5 @@
 [
   {
-    "id": "cuceranchwater",
-    "name": "Cucumber Ranch Water",
-    "baseSpirit": ["tequila"],
-    "glass": "Highball",
-    "garnish": "Orange twist",
-    "ingredients": [
-      {
-        "name": "818 Blanco Tequila",
-        "amount": "1.5oz"
-      },
-      {
-        "name": "Italicus Bergamot",
-        "amount": "0.5oz"
-      },
-      {
-        "name": "Lemon Juice",
-        "amount": "0.5oz"
-      },
-      {
-        "name": "Simple Syrup",
-        "amount": "0.25oz"
-      },
-      {
-        "name": "Club Soda",
-        "amount": "2oz"
-      }
-    ],
-    "batch": null,
-    "build": "Muddle 2 cucumber slices in a tin, pour all ingredients together and shake. Pour into a highball and top with club soda.",
-    "radioByte": "Immerse yourself in a symphony of flavors with this captivating tequila-based creation. Delight in the smooth allure of agave, complemented by an enchanting twist of bergamot that dances on the palate. Savor the tangy burst of citrus, balanced by a subtle hint of sweetness. The effervescence adds a refreshing liveliness, creating a light and uplifting sensation. Prepare to be mesmerized by this exquisite libation, a harmonious blend that leaves a lasting impression. Cheers to a taste journey filled with complexity, balance, and pure enjoyment."
-  },
-  {
     "id": "cosmo",
     "name": "Clarified Cosmo",
     "baseSpirit": ["vodka"],
@@ -166,6 +134,38 @@
     "batch": null,
     "build": "Pour Creme de Mure into a rocks glass with ice. Add all other ingredients into a tin with ice, shake, and double strain into the rocks glass. Garnish with a dehydrated lemon wheel.",
     "radioByte": "This enchanting cocktail harmonizes smoothness with tang, subtle complexity with delicate sweetness, and zesty notes with a captivating berry essence. Served in a chilled martini glass with a twist of lemon peel, the Honeyed Mure Martini is a mesmerizing and memorable experience for those seeking an indulgent libation. Cheers to the perfect balance of flavors!"
+  },
+  {
+    "id": "cuceranchwater",
+    "name": "Cucumber Ranch Water",
+    "baseSpirit": ["tequila"],
+    "glass": "Highball",
+    "garnish": "Mint Sprig",
+    "ingredients": [
+      {
+        "name": "818 Blanco Tequila",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Italicus Bergamot",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Club Soda",
+        "amount": "2oz"
+      }
+    ],
+    "batch": null,
+    "build": "Muddle 2 cucumber slices in a tin, pour all ingredients together and shake. Pour into a highball and top with club soda.",
+    "radioByte": "Immerse yourself in a symphony of flavors with this captivating tequila-based creation. Delight in the smooth allure of agave, complemented by an enchanting twist of bergamot that dances on the palate. Savor the tangy burst of citrus, balanced by a subtle hint of sweetness. The effervescence adds a refreshing liveliness, creating a light and uplifting sensation. Prepare to be mesmerized by this exquisite libation, a harmonious blend that leaves a lasting impression. Cheers to a taste journey filled with complexity, balance, and pure enjoyment."
   },
   {
     "id": "greenhouse",
