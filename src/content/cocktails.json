@@ -1,5 +1,173 @@
 [
   {
+    "id": "cuceranchwater",
+    "name": "Cucumber Ranch Water",
+    "baseSpirit": ["tequila"],
+    "glass": "Highball",
+    "garnish": "Orange twist",
+    "ingredients": [
+      {
+        "name": "818 Blanco Tequila",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Italicus Bergamot",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Club Soda",
+        "amount": "2oz"
+      }
+    ],
+    "batch": null,
+    "build": "Muddle 2 cucumber slices in a tin, pour all ingredients together and shake. Pour into a highball and top with club soda.",
+    "radioByte": "Immerse yourself in a symphony of flavors with this captivating tequila-based creation. Delight in the smooth allure of agave, complemented by an enchanting twist of bergamot that dances on the palate. Savor the tangy burst of citrus, balanced by a subtle hint of sweetness. The effervescence adds a refreshing liveliness, creating a light and uplifting sensation. Prepare to be mesmerized by this exquisite libation, a harmonious blend that leaves a lasting impression. Cheers to a taste journey filled with complexity, balance, and pure enjoyment."
+  },
+  {
+    "id": "cosmo",
+    "name": "Clarified Cosmo",
+    "baseSpirit": ["vodka"],
+    "glass": "Coupe",
+    "garnish": "Orange twist",
+    "ingredients": [
+      {
+        "name": "Harridan Vodka",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Cointreau",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "White Cranberry Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Orange Blossom Biters",
+        "amount": "3 dashes"
+      }
+    ],
+    "batch": null,
+    "build": "Shake all ingredients into a tin, double strain on a coupe. Garnish w Orange twist",
+    "radioByte": "Experience a tantalizing variation of the classic Cosmopolitan cocktail with a burst of flavors that will awaken your senses. This reimagined libation offers a smooth and sophisticated taste profile, accentuated by a delightful balance of subtle sweetness and tangy notes. Discover the refreshing fruitiness of white cranberry, accompanied by a tantalizing kick of zesty lime. Indulge in a hint of sweetness that harmonizes the flavors, while the aromatic complexity adds an intriguing layer of depth. Each sip invites you to savor the refined taste and embark on a journey of pure enjoyment. Cheers to a new twist on a beloved classic, promising a vibrant and unforgettable experience for your palate."
+  },
+  {
+    "id": "loveislove",
+    "name": "Love Is Love",
+    "baseSpirit": ["vodka"],
+    "glass": "Highball",
+    "garnish": "Dehydrated lime + Pride flag",
+    "ingredients": [
+      {
+        "name": "Grey Goose Vodka",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "St. Germain Elderflower",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Club Soda",
+        "amount": "2oz"
+      }
+    ],
+    "batch": null,
+    "build": "Build in a highball glass with ice, top with club soda, and garnish with a dehydrated lime wheel and a pride flag.",
+    "radioByte": "Celebrate the spirit of Pride with a vibrant and refreshing cocktail that embodies the essence of togetherness and love. This delightful libation delivers a harmonious symphony of flavors, starting with bright and crisp notes that dance on the palate, followed by a subtle floral sweetness that adds an enchanting touch. The invigorating tang of lime juice adds a refreshing zing, while the effervescence of club soda creates a lively and uplifting sensation. Sip this colorful creation and let the harmonious blend of flavors and effervescence fill your heart with joy and your taste buds with pure delight. Cheers to love, unity, and the celebration of diversity!"
+  },
+  {
+    "id": "colada",
+    "name": "The 1 Colada",
+    "baseSpirit": ["rum"],
+    "glass": "Rocks",
+    "garnish": "Dehydrated lime + Coco flakes",
+    "ingredients": [
+      {
+        "name": "Mt. Gay Black Barrel",
+        "amount": "2oz"
+      },
+      {
+        "name": "Pineapple Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Coconut Cream",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Orgeat",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Disaronno",
+        "amount": "0.25oz"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients in a tin with ice, shake, and pour into a rocks glass over fresh ice. Garnish with a dehydrated lime wheel and coconut flakes.",
+    "radioByte": "Embark on a journey to the tropics. This delightful libation exudes rich and complex flavors, reminiscent of a sun-soaked paradise. Sip and savor the vibrant notes of tropical pineapple, the smooth and creamy texture of coconut, and the refreshing tang of lime. A subtle hint of almond adds an enticing depth, while a touch of nutty sweetness lingers on the palate. Each sip evokes a sense of bliss, transporting you to a tropical oasis. Raise your glass and let the Caribbean embrace your senses with this captivating concoction."
+  },
+  {
+    "id": "bramble",
+    "name": "Bramble 1789",
+    "baseSpirit": ["gin"],
+    "glass": "Rocks",
+    "garnish": "Dehydrated lemon",
+    "ingredients": [
+      {
+        "name": "Hendricks Gin",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Dry Vermouth",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Honey Vanilla Syrup",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Orange Bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "Creme de Mure",
+        "amount": "0.33oz"
+      }
+    ],
+    "batch": null,
+    "build": "Pour Creme de Mure into a rocks glass with ice. Add all other ingredients into a tin with ice, shake, and double strain into the rocks glass. Garnish with a dehydrated lemon wheel.",
+    "radioByte": "This enchanting cocktail harmonizes smoothness with tang, subtle complexity with delicate sweetness, and zesty notes with a captivating berry essence. Served in a chilled martini glass with a twist of lemon peel, the Honeyed Mure Martini is a mesmerizing and memorable experience for those seeking an indulgent libation. Cheers to the perfect balance of flavors!"
+  },
+  {
     "id": "greenhouse",
     "name": "Greenhouse",
     "baseSpirit": ["gin"],
