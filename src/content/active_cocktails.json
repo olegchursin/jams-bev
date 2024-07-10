@@ -1,0 +1,346 @@
+[
+  {
+    "id": "SBAGLIATO",
+    "name": "Sbagliato",
+    "active": true,
+    "baseSpirit": ["wine"],
+    "glass": "Wine glass",
+    "garnish": "Orange slice",
+    "ingredients": [
+      {
+        "name": "Lambrusco",
+        "amount": "4.0oz"
+      },
+      {
+        "name": "Punt e Mes",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Campari",
+        "amount": "1.5oz"
+      }
+    ],
+    "batch": null,
+    "build": "Add campari and vermouth in a wine glass with ice. Light stir. Top with lambrusco. Garnish.",
+    "radioByte": "Transport yourself to the heart of Italy with the Sbagliato. This enchanting cocktail begins with the rich flavors of Punt e Mes and the bittersweet depth of Campari. Pour these into a wine glass filled with ice, then top with the sparkling delight of Lambrusco. Garnish with a vibrant orange slice for a touch of citrus flair. The Sbagliato is a delightful mix of complexity and effervescence, perfect for any celebration or a relaxing evening. Enjoy a taste of Italy in every sip."
+  },
+  {
+    "id": "LA_ULTIMA_PALABRA",
+    "name": "La Ultima Palabra",
+    "active": true,
+    "baseSpirit": ["mezcal"],
+    "glass": "Nick & Nora",
+    "garnish": "Black salt",
+    "ingredients": [
+      {
+        "name": "Montelobos Mezcal",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Luxardo",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Green Chartreuse",
+        "amount": "0.75oz"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients in a shaker w ice, strain into a nick and nora half rim black salt.",
+    "radioByte": "Discover the bold and intriguing flavors of La Ultima Palabra. This captivating cocktail brings together the smoky essence of Montelobos Mezcal, the herbal complexity of Green Chartreuse, the cherry sweetness of Luxardo, and the zesty freshness of lime juice. Shake all the ingredients with ice, then strain into a Nick and Nora glass with a half rim of black salt, adding a touch of elegance and contrast. La Ultima Palabra is a sophisticated and daring choice, perfect for those who appreciate a cocktail with depth and character."
+  },
+  {
+    "id": "HEMINGWAY_DAQUIRI",
+    "name": "Hemingway Daquiri",
+    "active": true,
+    "baseSpirit": ["rum"],
+    "glass": "Rocks",
+    "garnish": "Dehydrated lime",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Chartreuse",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Grapefruit",
+        "amount": "1"
+      },
+      {
+        "name": "Fevertree Grapefruit Soda",
+        "amount": "Top"
+      }
+    ],
+    "batch": null,
+    "build": "Add first four ingredients in a shaker with ice. Shake it up. Strain into a rocks glass with ice. Garnish.",
+    "radioByte": "Step into the world of literary elegance with the Hemingway Daiquiri. This sophisticated cocktail starts with the rich, bold flavor of Mount Gay Rum (or whatever rum you can find), enhanced by the herbal complexity of Chartreuse. Add a splash of simple syrup and the bright, tangy notes of fresh grapefruit juice. Shake it all with ice and strain into a rock glass filled with ice. Top with Fever-Tree Grapefruit Soda for a refreshing fizz, and garnish with a dried lime slice for a touch of class. The Hemingway Daiquiri is a refined and refreshing choice, perfect for those who appreciate a blend of robust and citrusy flavors."
+  },
+  {
+    "id": "ELM HOUSE SPRITZ",
+    "name": "Elm House Spritz",
+    "active": true,
+    "baseSpirit": ["vodka"],
+    "glass": "Wine glass",
+    "garnish": "Peach slice",
+    "ingredients": [
+      {
+        "name": "Titos",
+        "amount": "1.0oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Peach Puree",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Prosecco",
+        "amount": "1.5oz"
+      }
+    ],
+    "batch": null,
+    "build": "Add first four ingredients in a wine glass with ice. Gently stir. Top with Prosecco. Garnish.",
+    "radioByte": "Discover a taste of summer elegance with the Elm House Spritz. This refreshing cocktail begins with the smoothness of Tito’s Organic Vodka, complemented by the bright zest of fresh lemon juice and the sweetness of simple syrup and peach puree. Pour the mixture into a white wine glass filled with ice, gently stir, and top with bubbly Prosecco. Garnish with a fresh peach slice for a touch of class. The Elm House Spritz is the perfect blend of fruitiness and effervescence, ideal for a sunny afternoon or a sophisticated evening soiree."
+  },
+  {
+    "id": "COOL_AS_A_CUCUMBER",
+    "name": "Cool as a Cucumber",
+    "active": true,
+    "baseSpirit": ["gin"],
+    "glass": "Highball",
+    "garnish": "Cucumber",
+    "ingredients": [
+      {
+        "name": "Roku Gin",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "St. Germain",
+        "amount": "1.0oz"
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Fever Tree Sparkling Cucmber",
+        "amount": "Top"
+      }
+    ],
+    "batch": null,
+    "build": "Muddle 3 slices of cucumber w lemon juice in a tin, add gin, st. germain and ice. Shake vigorously. Pour ice in a highball. Double strain tin into the highball. Garnish w cucumber. Top with sparkling.",
+    "radioByte": "Feeling refreshed? Try the Cool as a Cucumber cocktail! Start with muddling fresh cucumber slices with a splash of lemon juice, then add the crisp notes of Roku Gin and the floral sweetness of St. Germain Elderflower. Shake it all up with ice, double strain into a highball glass filled with ice, and top with Fever-Tree Sparkling Cucumber water. Garnish with a delicate cucumber shaving for that extra touch of cool. It's the perfect way to stay chill and sophisticated!"
+  },
+  {
+    "id": "CHERRY_BLOSSOM_GIRL",
+    "name": "Cherry Blossom Girl",
+    "active": true,
+    "baseSpirit": ["vodka"],
+    "glass": "Nick & Nora",
+    "garnish": "Fresh Lychee/skewer",
+    "ingredients": [
+      {
+        "name": "Harridan Vodka",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Soto Sake",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Ramazzoti Rosato",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Lychee",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Yuzu",
+        "amount": "0.25oz"
+      }
+    ],
+    "batch": null,
+    "build": "Pour all ingredients into a shaker with ice, shake vigorously, strain into a Nick & Nora.",
+    "radioByte": "Step into a world of elegance with the Cherry Blossom Girl cocktail. This delightful mix combines the smoothness of Harridan Vodka with the delicate flavors of Soto Sake and Ramazzotti Rosato. Add a touch of exotic with lychee and yuzu, all shaken vigorously with ice. Strain into a Nick & Nora glass and garnish with a fresh lychee on a skewer for a taste that's as beautiful as it sounds. Perfect for those moments when you want to feel extra special!"
+  },
+  {
+    "id": "BOULEVARDIER",
+    "name": "Boulevardier ",
+    "active": true,
+    "baseSpirit": ["whiskey"],
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      {
+        "name": "Jack Bonded",
+        "amount": "1.0oz"
+      },
+      {
+        "name": "Campari",
+        "amount": "1.0oz"
+      },
+      {
+        "name": "Antica Formula",
+        "amount": "1.0oz"
+      },
+      {
+        "name": "Angostura Biters",
+        "amount": "2 dashes"
+      },
+      {
+        "name": "Chocolate Biters",
+        "amount": "2 dashes"
+      }
+    ],
+    "batch": null,
+    "build": "Add all ingredients in a mixing glass. Stir until well chilled. Pour into a small rocks glass w king rock or a coupe. Garnish w orange twist.",
+    "radioByte": "Looking to elevate your cocktail game? Try the Boulevardier! This classic drink features a smooth blend of Jack Bonded whiskey, Campari, and Antica Formula, all perfectly balanced with a couple of dashes each of Angostura and Chocolate Bitters. Stirred until well chilled and served in a small rocks glass with a king rock, it’s finished with a zesty orange twist. A sophisticated choice for whiskey lovers!"
+  },
+  {
+    "id": "greenhouse",
+    "name": "Greenhouse",
+    "active": true,
+    "baseSpirit": ["gin"],
+    "glass": "Rocks",
+    "garnish": "3 leaf mint sprig",
+    "ingredients": [
+      {
+        "name": "Hendricks Gin",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "0.75oz"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Green Juice",
+        "amount": "1oz"
+      }
+    ],
+    "batch": null,
+    "build": "Put all ingredients in a tin with ice, shake, and pour into a rocks glass with rocks.",
+    "radioByte": "The Greenhouse cocktail is a refreshing and healthy blend of Botanist Gin, lime, cucumber, kale, celery, and citrus. Made with Hendricks Gin and a combination of fresh ingredients, this drink is perfect for those looking for a revitalizing and invigorating cocktail."
+  },
+  {
+    "id": "oaxacan_paloma",
+    "name": "Oaxacan Paloma",
+    "active": true,
+    "baseSpirit": ["mezcal"],
+    "glass": "Highball",
+    "garnish": "Dehydrated lime",
+    "ingredients": [
+      {
+        "name": "Vida Mezcal",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Pamplemousse Liqueur",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Lime",
+        "amount": "0.5oz"
+      },
+      {
+        "name": "Grapefruit Juice",
+        "amount": "1oz"
+      },
+      {
+        "name": "Pink Grapefruit Soda",
+        "amount": "Top"
+      }
+    ],
+    "batch": null,
+    "build": "Add the top 4 ingredients in a tin with ice, shake and pour into a Tajin rimmed highball with rocks. Top with Pink Grapefruit Soda.",
+    "radioByte": "Indulge in this lively cocktail that offers a perfect harmony of smoky depth, sweet fruitiness, tart citrus, and effervescent fizziness, making it an ideal choice for warm summer evenings or whenever you desire a refreshing, zesty treat."
+  },
+  {
+    "id": "jams_fashioned",
+    "name": "Jams Fashioned",
+    "active": true,
+    "baseSpirit": ["whiskey"],
+    "glass": "Rocks",
+    "garnish": "Orange twist",
+    "ingredients": [
+      {
+        "name": "Wild Turkey Whiskey",
+        "amount": "1.5oz"
+      },
+      {
+        "name": "Honey Syrup",
+        "amount": "0.25oz"
+      },
+      {
+        "name": "Angostura Bitters",
+        "amount": "2 dashes"
+      }
+    ],
+    "batch": null,
+    "build": "Pour all ingredients into a mixing cocktail glass, stir for 15 seconds, then pour into a rocks glass with a large cube.",
+    "radioByte": "Savor the timeless taste of this classic cocktail, featuring the smooth and smoky richness of Wild Turkey Whiskey, balanced by the subtle sweetness of honey syrup and the complex spice of Angostura Bitters, resulting in a well-crafted and satisfying drink that is perfect for any occasion."
+  },
+  {
+    "id": "frozenwatermelonmarg",
+    "name": "Frozen Watermelon Marg",
+    "active": true,
+    "baseSpirit": ["tequila"],
+    "glass": "Mason Jar",
+    "garnish": "Tajin rim w/ cucumber",
+    "ingredients": [
+      {
+        "name": "Frozen Marg",
+        "amount": "Full jar"
+      }
+    ],
+    "batch": [
+      {
+        "name": "Pueblo Viejo Blanco Tequila",
+        "amount": "3L"
+      },
+      {
+        "name": "Triple Sec",
+        "amount": "1L"
+      },
+      {
+        "name": "Lime Juice",
+        "amount": "2.5L"
+      },
+      {
+        "name": "Fresh Watermelon Juice",
+        "amount": "7L"
+      },
+      {
+        "name": "Simple Syrup",
+        "amount": "2L"
+      },
+      {
+        "name": "Water",
+        "amount": "1.5L"
+      }
+    ],
+    "build": "Batch 2 per day and leave in walk-in.",
+    "radioByte": "Experience a delightful, large-scale concoction that artfully combines the bold, spirited flavors of Pueblo Viejo Blanco Tequila, Triple Sec for a citrusy touch, the refreshing tang of lime juice, the juicy, natural sweetness of fresh watermelon juice, simple syrup for a hint of sweetness, and water to balance the mixture, resulting in a vibrant and invigorating beverage perfect for sharing at parties and gatherings."
+  }
+]

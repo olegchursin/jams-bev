@@ -1,4 +1,4 @@
-import cocktails from '../content/cocktails.json';
+import cocktails from '../content/active_cocktails.json';
 
 export interface Filter {
   readonly id: string;

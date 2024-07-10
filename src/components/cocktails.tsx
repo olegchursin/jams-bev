@@ -1,7 +1,7 @@
 import { TextInput } from 'flowbite-react';
 import { FC, useState } from 'react';
 import { HiSearch } from 'react-icons/hi';
-import cocktails from '../content/cocktails.json';
+import cocktails from '../content/active_cocktails.json';
 import CocktailCard from './cocktailCard';
 import Filter from './filter';
 
@@ -11,8 +11,9 @@ const Cocktails: FC = () => {
 
   const filterCocktails = (filterKey: string) => {
     if (filterKey) {
-      return cocktails.filter(cocktail =>
-        new Set(cocktail.baseSpirit).has(filterKey)
+      return cocktails.filter(
+        cocktail =>
+          new Set(cocktail.baseSpirit).has(filterKey) && cocktail.active
       );
     }
     if (search) {
