@@ -149,12 +149,12 @@
     "radioByte": "Feeling refreshed? Try the Cool as a Cucumber cocktail! Start with muddling fresh cucumber slices with a splash of lemon juice, then add the crisp notes of Roku Gin and the floral sweetness of St. Germain Elderflower. Shake it all up with ice, double strain into a highball glass filled with ice, and top with Fever-Tree Sparkling Cucumber water. Garnish with a delicate cucumber shaving for that extra touch of cool. It's the perfect way to stay chill and sophisticated!"
   },
   {
-    "id": "CHERRY_BLOSSOM_GIRL",
-    "name": "Cherry Blossom Girl",
+    "id": "SAKURA_MARTINI",
+    "name": "Sakura Martini",
     "active": true,
     "baseSpirit": ["vodka"],
     "glass": "Nick & Nora",
-    "garnish": "Fresh Lychee/skewer",
+    "garnish": "Lychee skewer",
     "ingredients": [
       {
         "name": "Harridan Vodka",
